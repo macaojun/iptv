@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:8,SBS (720p)
+http://www.hwado.net/webtv/catv/502_76142D8F.php
+#EXTINF:0,SBS CJB (720p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:12,SBS KNN (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:20,KBS 1TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:20,KBS 2TV (720p)
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:30,MBC Daejeon (https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:29,MBC Gwangju (https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:40,EBS 1 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:40,EBS 2 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:40,EBS E (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:40,EBS kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:40,EBS+ 1 (400p)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:40,EBS+ 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:14,Channel A
+https://buly.kr/H6hDy2K
+#EXTINF:30,TV Chosun (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:30,TV Chosun 2 (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:30,YTN - [LIVE] https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741322927/ei/TybKZ5zkNLqAs8IP9eyQwAE/ip/121.156.237.203/id/FJfwehhzIhw.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393163/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/kr/ss/1/bui/AUWDL3x8SK23GkBLKshG9DAso3DEg9cKCKoCkTeQElo9Sy6tDhGvDkPja3ROlpPfPXqcIQ9ov2H-ASLZ/spc/RjZbSV9klYQtFvCqTZORFWoBLsT6jCYeTYi_4-lT0o3Qnc8oeosTM5zNrnaYNuU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALkzwPgTPo5zpW8rN_9Sb17iGAgpqYCwu0C-tY56qPLDAiBLHDlKHHUKN6VOuO-jXNaKAzOU-CaOtR1Keiy7kukQNQ%3D%3D/file/index.m3u8
+#EXTINF:20,KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:20,KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:20,KBS Kids (480p)
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:20,KBS Life (480p)
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:20,KBS Story (480p)
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:0,KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:31,KCTV http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:29,Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:30,MBC Net (480p) [Geo-blocked]
+http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:10,OUN (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:0,Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:20,TBS Seoul (720p)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:89,WBC TV (1080p)
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
