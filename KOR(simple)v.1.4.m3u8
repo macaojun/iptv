@@ -41,7 +41,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741322927/ei/T
 http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:20,KBS Joy (480p)
 https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjgxMzQ5MTR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=IzYuLpvhbPQtHJQMJmcEXzki5qK27d4DwLPdEs0fpK03bFaadHsCvxZcPRvjapWFrHp9CvQmNg-PMEuDoRjEZhLjVM4uZUFJEbhjxvxAwKuxOq3G6-hQeoxzsFy9sLleVk9SaMnfBvTZCh3pFzMi34QuzVwJWjvF~-Sf6fKBMrzQjHm8EOaDvGOezEFo~YnFYBtym3dCjIcvwIgiX0cMlvCVoOLWaCRPVb0byoRW9h4rM3BhAM3LIs3mnTIQ6KXMfttceQzhls-rHh4RIl4c7ZUnjjVDpUDXdmddjT3BbjgRg0zdcfu0eL3YlE1UanoK5makuy-1DelvpE7irKa5cw__
-http://mytv.dothome.co.kr/ch/catv/6.php
 #EXTINF:20,KBS Life (480p)
 http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:20,KBS Story (480p)
@@ -62,4 +61,5 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:89,WBC TV (1080p)
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
 
