@@ -44,7 +44,7 @@ https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1
 #EXTINF:20,KBS Life (480p)
 http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:20,KBS Story (480p)
-http://mytv.dothome.co.kr/ch/catv/4.php
+https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2ODEzNjI5M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=MGo6i2rqSSqKEkfUQ2l76f1kUNdlWb3RMrbdO9pIZI~Twwdzmu5Wicn0mTpuQmuLYHiOcCo6R88VW2r860wydmUM0lMli7tRt7I9IzZ-wyrcmMvcU~p4Q9BT1inTG4gu7fpHMZ0cwfc-Gqn9T4m-XMSJ153a-A0ZVVCBwg4ocDm52OtTKFMsgJv9IMqV594N1QlAvyBAhmpPmBXVbBpxX6DoFF6igtcEtjrOU4vAoZhft9eldu4eLNPOAR8~MPveg7qdOoNTrKF1tZNQTRoxgRh-umNTjxguP9C1E8Y-mAdk0~UXWQoOU-w2qBdBZrG3voT0GEwuX0MhuGIMbGUs7g__
 #EXTINF:0,KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:31,KCTV 광주 CH05 (720p) [Not 24/7]
@@ -61,5 +61,6 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:89,WBC TV (1080p)
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
 
 
