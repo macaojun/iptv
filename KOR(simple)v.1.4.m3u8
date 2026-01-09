@@ -37,6 +37,8 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:30,YTN - [LIVE] 대한민국 24시간 뉴스채널 YTN
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741322927/ei/TybKZ5zkNLqAs8IP9eyQwAE/ip/121.156.237.203/id/FJfwehhzIhw.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393163/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/kr/ss/1/bui/AUWDL3x8SK23GkBLKshG9DAso3DEg9cKCKoCkTeQElo9Sy6tDhGvDkPja3ROlpPfPXqcIQ9ov2H-ASLZ/spc/RjZbSV9klYQtFvCqTZORFWoBLsT6jCYeTYi_4-lT0o3Qnc8oeosTM5zNrnaYNuU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALkzwPgTPo5zpW8rN_9Sb17iGAgpqYCwu0C-tY56qPLDAiBLHDlKHHUKN6VOuO-jXNaKAzOU-CaOtR1Keiy7kukQNQ%3D%3D/file/index.m3u8
+#EXTINF:30,MBN
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2ODA1MTAzOH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=F5~2jhdAolfBbygJ05Z2T-NplPXJQQYE9ZShXjEkNOYOuO-6sopr3~f~MNOtQBmJLhW88J9oKxCBdoQv2SQiZ-d66s99PnpHouA52OXmNTrPgRIcpot~fzSdBWZKynKiBi1~RtVSWKb4SoNSG-pRDP5fjkl54w8o26UG3SAGuu8_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 #EXTINF:20,KBS Drama (480p)
 http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:20,KBS Joy (480p)
@@ -61,6 +63,7 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:89,WBC TV (1080p)
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
 
 
 
